@@ -42,7 +42,6 @@ namespace Lab5API
 
         public override string ToString()
         {
-
             string msg = "";
 
             msg += "\n---------------------------------------------------\n";
